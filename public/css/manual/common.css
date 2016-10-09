@@ -1,0 +1,23 @@
+    *
+    {
+      box-sizing: border-box;
+    }
+
+    #con
+    {
+      font-size: 1.5vw;
+      color:rgb(35, 15, 40);
+      font-family:SqueakyChalkSound;
+      letter-spacing: 0.1px;
+    }
+    #sap
+    {
+      font-size: 3.75vw;
+      font-family: ATROX-normal;
+      letter-spacing: 2px;
+    }
+    #welcome
+    {
+        color: rgb(250, 250, 250);
+        font-size: 30px;
+    }

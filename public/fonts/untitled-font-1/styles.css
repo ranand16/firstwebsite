@@ -1,0 +1,372 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "untitled-font-1";
+  src:url("fonts/untitled-font-1.eot");
+  src:url("fonts/untitled-font-1.eot?#iefix") format("embedded-opentype"),
+    url("fonts/untitled-font-1.woff") format("woff"),
+    url("fonts/untitled-font-1.ttf") format("truetype"),
+    url("fonts/untitled-font-1.svg#untitled-font-1") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "untitled-font-1" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "untitled-font-1" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-500px:before {
+  content: "\61";
+
+}
+.icon-facebook-official:before {
+  content: "\62";
+  font-size: 40px;
+}
+.icon-facebook-square:before {
+  content: "\63";
+}
+.icon-facebook:before {
+  content: "\64";
+}
+.icon-eur:before {
+  content: "\65";
+}
+.icon-amazon:before {
+  content: "\66";
+}
+.icon-android:before {
+  content: "\67";
+}
+.icon-chrome:before {
+  content: "\68";
+}
+.icon-certificate:before {
+  content: "\69";
+}
+.icon-firefox:before {
+  content: "\6a";
+}
+.icon-google:before {
+  content: "\6b";
+}
+.icon-google-plus:before {
+  content: "\6c";
+}
+.icon-google-plus-square:before {
+  content: "\6d";
+}
+.icon-internet-explorer:before {
+  content: "\6e";
+}
+.icon-instagram:before {
+  content: "\6f";
+  font-size: 40px;
+}
+.icon-inr:before {
+  content: "\70";
+}
+.icon-info-circle:before {
+  content: "\71";
+}
+.icon-html5:before {
+  content: "\72";
+}
+.icon-linkedin:before {
+  content: "\73";
+}
+.icon-linkedin-square:before {
+  content: "\74";
+}
+.icon-windows:before {
+  content: "\75";
+}
+.icon-wifi:before {
+  content: "\76";
+}
+.icon-vimeo-square:before {
+  content: "\77";
+}
+.icon-vimeo:before {
+  content: "\78";
+}
+.icon-vine:before {
+  content: "\79";
+}
+.icon-twitter:before {
+  content: "\7a";
+  font-size: 40px;
+}
+.icon-twitter-square:before {
+  content: "\41";
+}
+.icon-twitch:before {
+  content: "\42";
+}
+.icon-youtube-square:before {
+  content: "\43";
+}
+.icon-youtube:before {
+  content: "\44";
+}
+.icon-youtube-play:before {
+  content: "\45";
+}
+.icon-at-sign:before {
+  content: "\46";
+}
+.icon-alert:before {
+  content: "\47";
+}
+.icon-address-book:before {
+  content: "\48";
+}
+.icon-camera:before {
+  content: "\49";
+}
+.icon-power:before {
+  content: "\4a";
+}
+.icon-social-adobe:before {
+  content: "\4b";
+}
+.icon-save:before {
+  content: "\4c";
+}
+.icon-shield:before {
+  content: "\4d";
+}
+.icon-social-apple:before {
+  content: "\4e";
+}
+.icon-social-android:before {
+  content: "\4f";
+}
+.icon-social-evernote:before {
+  content: "\50";
+}
+.icon-social-spotify:before {
+  content: "\51";
+}
+.icon-social-skype:before {
+  content: "\52";
+}
+.icon-torsos-all:before {
+  content: "\53";
+}
+.icon-telephone:before {
+  content: "\54";
+  font-size: 40px;
+}
+.icon-yen:before {
+  content: "\55";
+}
+.icon-widget:before {
+  content: "\56";
+}
+.icon-attach:before {
+  content: "\57";
+}
+.icon-chat:before {
+  content: "\58";
+}
+.icon-dropbox:before {
+  content: "\59";
+}
+.icon-note-beamed:before {
+  content: "\5a";
+}
+.icon-rss:before {
+  content: "\30";
+}
+.icon-right-open-mini:before {
+  content: "\31";
+}
+.icon-skype:before {
+  content: "\32";
+}
+.icon-mobile:before {
+  content: "\33";
+}
+.icon-monitor:before {
+  content: "\34";
+}
+.icon-mail:before {
+  content: "\35";
+}
+.icon-left-open:before {
+  content: "\36";
+}
+.icon-list-add:before {
+  content: "\37";
+}
+.icon-left-dir:before {
+  content: "\38";
+}
+.icon-left-open-mini:before {
+  content: "\39";
+}
+.icon-right-dir:before {
+  content: "\21";
+}
+.icon-right-open:before {
+  content: "\22";
+}
+.icon-search:before {
+  content: "\23";
+}
+.icon-user-add:before {
+  content: "\24";
+}
+.icon-users:before {
+  content: "\25";
+}
+.icon-email-plane:before {
+  content: "\26";
+}
+.icon-share:before {
+  content: "\27";
+}
+.icon-share-outline:before {
+  content: "\28";
+}
+.icon-printer-1:before {
+  content: "\29";
+}
+.icon-pin:before {
+  content: "\2a";
+}
+.icon-stopwatch:before {
+  content: "\2b";
+}
+.icon-youtube-1:before {
+  content: "\2c";
+}
+.icon-windows-1:before {
+  content: "\2d";
+}
+.icon-soundcloud:before {
+  content: "\2e";
+}
+.icon-calendar:before {
+  content: "\2f";
+}
+.icon-terminal:before {
+  content: "\3a";
+}
+.icon-tools:before {
+  content: "\3b";
+}
+.icon-trashcan:before {
+  content: "\3c";
+}
+.icon-radio-tower:before {
+  content: "\3d";
+}
+.icon-ios-contact:before {
+  content: "\3e";
+}
+.icon-social-windows:before {
+  content: "\3f";
+}
+.icon-ios-mic:before {
+  content: "\40";
+}
+.icon-android-attach:before {
+  content: "\5b";
+}
+.icon-ios-gear:before {
+  content: "\5d";
+}
+.icon-ios-time:before {
+  content: "\5e";
+}
+.icon-ios-cloud-download:before {
+  content: "\5f";
+}
+.icon-ios-email:before {
+  content: "\60";
+}
+.icon-android-upload:before {
+  content: "\7b";
+}
+.icon-checkmark-round:before {
+  content: "\7c";
+}
+.icon-android-send:before {
+  content: "\7d";
+}
+.icon-playstation:before {
+  content: "\7e";
+}
+.icon-at:before {
+  content: "\5c";
+}
+.icon-ios-mic-off:before {
+  content: "\e000";
+}
+.icon-nuclear:before {
+  content: "\e001";
+}
+.icon-headphone:before {
+  content: "\e002";
+}
+.icon-social-python:before {
+  content: "\e003";
+}
+.icon-social-css3:before {
+  content: "\e004";
+}
+.icon-social-javascript-outline:before {
+  content: "\e005";
+}
+.icon-social-euro:before {
+  content: "\e006";
+}
+.icon-social-yen:before {
+  content: "\e007";
+}
+.icon-toggle:before {
+  content: "\e008";
+}
+.icon-ios-pricetags:before {
+  content: "\e009";
+}
+.icon-social-html5:before {
+  content: "\e00a";
+}
+.icon-chatboxes:before {
+  content: "\e00b";
+}
+.icon-android-playstore:before {
+  content: "\e00c";
+}
+.icon-zoom-in:before {
+  content: "\e00d";
+}
+.icon-zoom-out:before {
+  content: "\e00e";
+}
