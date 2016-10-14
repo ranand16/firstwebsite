@@ -3,8 +3,8 @@ DirectoryIndex public/index.php
 Options -Multiviews
 RewriteEngine On
 
-RewriteBase public/index.php
+RewriteBase http://52.41.195.76/public/index.php
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 
-RewriteRule ^(.+)$ public/index.php?url=$1 [QSA,L]
+RewriteRule ^$ http://52.41.195.76/public/index.php [L,R=301]
