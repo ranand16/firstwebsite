@@ -1,10 +1,2 @@
+
 DirectoryIndex public/index.php
-
-Options -Multiviews
-RewriteEngine On
-
-RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-
-RewriteRule ^(.+)$ /public/index.php [QSA,L]
