@@ -1,0 +1,9 @@
+Options -MultiViews
+RewriteEngine on
+
+RewriteBase /
+
+Rewrite %{REQUEST_FILENAME} !-d
+Rewrite %{REQUEST_FILENAME} !-f
+
+Rewrite ^(.+)$ index.php?url=$1 [QSA,L]
