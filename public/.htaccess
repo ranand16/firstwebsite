@@ -1,5 +1,7 @@
-Options -MultiViews
-RewriteEngine on
-
-Rewrite %{REQUEST_FILENAME} !-d
-Rewrite %{REQUEST_FILENAME} !-f
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /index.php [L]
+</IfModule>
