@@ -18,7 +18,7 @@
 		<b id="welcome"><b id="sap">Rishabh</b><i><small id="con">Anand</small></i></b>
 	</div>
 -->
-		<div class="filter">
+		<div class="">
 			<div class="c1 col-md-8 col-sm-12">
 				<div class="name">
 					RISHABH ANAND
@@ -41,10 +41,10 @@
 			</div>
 			<div class="c2 col-md-4 col-sm-12">
 				<div class="icopar">
-					<div id="fb" class="icon icon-facebook-official ico"></div>
-					<div id="ig" class="icon icon-instagram ico"></div>
-					<div id="tw" class="icon icon-twitter ico"></div>
-					<div id="wa" class="icon icon-telephone ico"></div>
+					<div id="fb" class="ico icon icon-facebook-official"></div>
+					<div id="ig" class="ico icon icon-instagram"></div>
+					<div id="tw" class="ico icon icon-twitter"></div>
+					<div id="wa" class="ico icon icon-telephone"></div>
 				</div>
 			</div>
 			<br>
