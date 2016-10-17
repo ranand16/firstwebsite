@@ -18,8 +18,6 @@
 		<b id="welcome"><b id="sap">Rishabh</b><i><small id="con">Anand</small></i></b>
 	</div>
 -->
-<div class="homepage-hero-module">
-	<div class="video-container">
 		<div class="filter">
 			<div class="c1 col-md-8 col-sm-12">
 				<div class="name">
@@ -60,8 +58,3 @@
 			<source src="Love-Coding/WEBM/Love-Coding.webm" type="video/webm" />Your browser does not support the video tag. I suggest you upgrade your browser.
 		</video>
 -->
-		<div class="poster hidden">
-			<img src="Love-Coding/MP4/Love-Coding.jpg" alt="">
-		</div>
-	</div>
-</div>
