@@ -1,5 +1,5 @@
 <?php
-//include_once "_includes/head.php";
+
 require_once '../app/init.php';
 	$title = "";
 	$active = "home";
