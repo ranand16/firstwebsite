@@ -55,10 +55,12 @@
 				<?php include_once "_includes/nav.php"; ?>
 			</div>
 		</div>
+<!--
 		<video autoplay loop class="fillWidth">
 			<source src="Love-Coding/MP4/Love-Coding.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
 			<source src="Love-Coding/WEBM/Love-Coding.webm" type="video/webm" />Your browser does not support the video tag. I suggest you upgrade your browser.
 		</video>
+-->
 		<div class="poster hidden">
 			<img src="Love-Coding/MP4/Love-Coding.jpg" alt="">
 		</div>
