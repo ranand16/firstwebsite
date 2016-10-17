@@ -6,3 +6,5 @@
     RewriteRule ^.*$ mod_rewrite.php
     RewriteRule . /index.php [L]
 </IfModule>
+
+yfufu
