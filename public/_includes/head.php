@@ -44,7 +44,7 @@
 			<div class="c2 col-md-4 col-sm-12">
 				<div class="icopar">
 					<div class="icon icon-facebook-official ico"></div>
-					<div class="icon icon-instagram eico"></div>
+					<div class="icon icon-instagram ico"></div>
 					<div class="icon icon-twitter ico"></div>
 					<div class="icon icon-telephone ico"></div>
 				</div>
