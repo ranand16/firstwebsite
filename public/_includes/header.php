@@ -20,12 +20,80 @@
 				</div>
 			</div>
 		</div>
+
 		<div class="c2 col-md-4 col-sm-12">
 			<div class="icopar">
-				<div id="fb" class="ico icon icon-facebook-official"></div>
-				<div id="ig" class="ico icon icon-instagram"></div>
-				<div id="tw" class="ico icon icon-twitter"></div>
-				<div id="wa" class="ico icon icon-telephone"></div>
+
+				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal1">
+					<div id="fb" class="ico icon icon-facebook-official"></div>
+				</button>
+				<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h4 class="modal-title" id="myModalLabel" style="color:black">Facebook id</h4>
+				      </div>
+				      <div class="modal-body" style="color:black">
+				      	<a href="https://facebook.com/rishabhanand16">click here</a>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
+				<br>
+
+				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal2">
+					<div id="fb" class="ico icon icon-instagram"></div>
+				</button>
+				<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h4 class="modal-title" id="myModalLabel" style="color:black">Instagram id</h4>
+				      </div>
+				      <div class="modal-body" style="color:black">
+				      	<a href="https://www.instagram.com/ranand16">click here</a>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
+				<br>
+
+				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal3">
+					<div id="fb" class="ico icon icon-twitter"></div>
+				</button>
+				<div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h4 class="modal-title" id="myModalLabel" style="color:black">Twitter id</h4>
+				      </div>
+				      <div class="modal-body" style="color:black">
+				      	<a href="https://www.twitter.com/ranand16">click here</a>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
+				<br>
+
+				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal4">
+					<div id="fb" class="ico icon icon-telephone"></div>
+				</button>
+				<div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h4 class="modal-title" id="myModalLabel" style="color:black">Whatsapp number</h4>
+				      </div>
+				      <div class="modal-body" style="color:black">
+				      	For that you need to prefer any one of the three above.
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
 			</div>
 		</div>
 		<br>

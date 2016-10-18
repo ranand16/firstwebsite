@@ -19,4 +19,3 @@
     return $title;
   }
 ?>
-<?php if($active == "home") { ?>class="active"<?php } ?>

@@ -125,8 +125,8 @@ h1, h2, h3, h4, h5, h6
 }
 .ico
 {
-	padding-top :21px;
-	padding-bottom :21px;
+	padding-top :1.5vw;
+	padding-bottom :1.5vw;
 	transition-duration: 0.3s;
 }
 .ico:hover
@@ -134,5 +134,4 @@ h1, h2, h3, h4, h5, h6
 	transition-duration: 0.3s;
 	transition-delay: 0.1s;
 	padding-left: 25vw;
-	background: rgba(255,255,255,0.1);
 }
