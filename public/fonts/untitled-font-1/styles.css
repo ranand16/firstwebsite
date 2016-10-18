@@ -44,7 +44,7 @@
 }
 .icon-facebook-official:before {
   content: "\62";
-  font-size: 40px;
+  font-size: 2vw;
 }
 .icon-facebook-square:before {
   content: "\63";
@@ -84,7 +84,7 @@
 }
 .icon-instagram:before {
   content: "\6f";
-  font-size: 40px;
+  font-size: 2vw;
 }
 .icon-inr:before {
   content: "\70";
@@ -118,7 +118,7 @@
 }
 .icon-twitter:before {
   content: "\7a";
-  font-size: 40px;
+  font-size: 2vw;
 }
 .icon-twitter-square:before {
   content: "\41";
@@ -179,7 +179,7 @@
 }
 .icon-telephone:before {
   content: "\54";
-  font-size: 40px;
+  font-size: 2vw;
 }
 .icon-yen:before {
   content: "\55";
@@ -216,6 +216,7 @@
 }
 .icon-mail:before {
   content: "\35";
+  font-size: 2vw;
 }
 .icon-left-open:before {
   content: "\36";

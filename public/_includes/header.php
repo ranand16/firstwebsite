@@ -24,8 +24,26 @@
 		<div class="c2 col-md-4 col-sm-12">
 			<div class="icopar">
 
-				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal1">
-					<div id="fb" class="ico icon icon-facebook-official"></div>
+				<button id="mi" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal5">
+					<div class="ico icon icon-mail"></div>
+				</button>
+				<div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h4 class="modal-title" id="myModalLabel" style="color:black">E-mail id</h4>
+				      </div>
+				      <div class="modal-body" style="color:black">
+								ranand16@gmail.com
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
+				<br>
+
+				<button id="fb" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal1">
+					<div class="ico icon icon-facebook-official"></div>
 				</button>
 				<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 				  <div class="modal-dialog" role="document">
@@ -42,8 +60,8 @@
 
 				<br>
 
-				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal2">
-					<div id="fb" class="ico icon icon-instagram"></div>
+				<button id="ig" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal2">
+					<div class="ico icon icon-instagram"></div>
 				</button>
 				<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 				  <div class="modal-dialog" role="document">
@@ -60,8 +78,8 @@
 
 				<br>
 
-				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal3">
-					<div id="fb" class="ico icon icon-twitter"></div>
+				<button id="tw" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal3">
+					<div class="ico icon icon-twitter"></div>
 				</button>
 				<div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 				  <div class="modal-dialog" role="document">
@@ -78,8 +96,8 @@
 
 				<br>
 
-				<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal4">
-					<div id="fb" class="ico icon icon-telephone"></div>
+				<button id="wa" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal4">
+					<div class="ico icon icon-telephone"></div>
 				</button>
 				<div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 				  <div class="modal-dialog" role="document">

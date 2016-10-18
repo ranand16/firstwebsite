@@ -119,12 +119,9 @@ h1, h2, h3, h4, h5, h6
 	cursor:pointer;
 	background: rgba(255,255,255,0.1);
 }
-.icopar
-{
-	padding:5px;
-}
 .ico
 {
+
 	padding-top :1.5vw;
 	padding-bottom :1.5vw;
 	transition-duration: 0.3s;
@@ -133,5 +130,29 @@ h1, h2, h3, h4, h5, h6
 {
 	transition-duration: 0.3s;
 	transition-delay: 0.1s;
-	padding-left: 25vw;
+	padding-left: 25.6vw;
+}
+.btn
+{
+	margin: 0.5vw;
+}
+#fb
+{
+	background: rgb(59, 89, 152);
+}
+#ig
+{
+	background: rgb(18, 86, 136);
+}
+#tw
+{
+	background: rgb(85, 172, 238);
+}
+#wa
+{
+	background: rgb(77, 194, 71);
+}
+#mi
+{
+	background: rgb( 221, 75, 57);
 }
