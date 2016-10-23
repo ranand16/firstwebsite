@@ -3,8 +3,8 @@
 <html>
 <head>
 	<title></title>
-	<script src="js/jquery-2.2.3.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery-2.2.3.min.js" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/manual/manualstyle.css">
 	<link rel="stylesheet" href="css/manual/common.css">

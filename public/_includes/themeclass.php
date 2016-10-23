@@ -1,12 +1,12 @@
 <?php
   class themeMethods {
-	   public function navigation($items_array,$class) {
-				$nav = '<nav class="' . $class . '">';
+	   public function navigation($items_array,$class,$dt) {
+				$nav = '';
 
 				foreach ( $items_array as $item ) {
-					$nav .= '<div class="'. $item['class2'] .'" onClick="location.href=\''. $item['url']. '\'" >' . $item['text'] . '</div>';
+					$nav .= '<button class="'. $item['class2'] .'" id="'.$item['id'].'" data-toggle="'.$dt.'" data-target="'.$item['url'].'">' . $item['text'] . '</button>';
 				}
-        $nav .= '</nav>';
+
 				return $nav;
 			}
 		}
